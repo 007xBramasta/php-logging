@@ -1,0 +1,14 @@
+{
+    "message":"Belajar PHP Logging",
+    "context":{
+        "username":"bramasta"
+    },
+    "level":200,
+    "level_name":"INFO",
+    "channel":"Bramasta\\Belajar\\PHP\\MVC\\FormaterTest",
+    "datetime":"2023-09-29T22:14:46.194635+07:00",
+    "extra":{
+    "hostname":"DESKTOP-346I1PV",
+    "memory_usage":"4 MB",
+    "git":[]}
+}

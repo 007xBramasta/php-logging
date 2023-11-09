@@ -1,0 +1,4 @@
+[2023-09-28T22:02:05.743288+07:00] Bramasta\Belajar\PHP\MVC\LevelTest.ERROR: This is Error [] []
+[2023-09-28T22:02:05.744064+07:00] Bramasta\Belajar\PHP\MVC\LevelTest.CRITICAL: This is Critical [] []
+[2023-09-28T22:02:05.744967+07:00] Bramasta\Belajar\PHP\MVC\LevelTest.ALERT: This is Alert [] []
+[2023-09-28T22:02:05.745953+07:00] Bramasta\Belajar\PHP\MVC\LevelTest.EMERGENCY: This is Emergency [] []
